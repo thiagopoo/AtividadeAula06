@@ -9,7 +9,7 @@ public enum TamanhoRoupaEnum {
 
     private String descricao;
 
-    private TamanhoRoupa(String descricao){
+    private TamanhoRoupaEnum(String descricao){
         this.descricao = descricao;
     }
 
